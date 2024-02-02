@@ -1,0 +1,9 @@
+asgiref
+Django
+Pillow
+pytz
+sqlparse
+numpy
+pandas
+surprise
+joblib
