@@ -9,5 +9,8 @@
         "src": "/(.*)",
         "dest": "ecommerceshop/wsgi.py"
     }
-]
+],
+"env": {
+    "PIP_USE_PEP517": "false"
+  }
 }
