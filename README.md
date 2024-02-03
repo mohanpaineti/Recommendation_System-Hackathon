@@ -7,6 +7,7 @@ This README provides instructions on how to set up a Python environment, install
 Before you begin, ensure you have the following prerequisites installed on your system:
 
 - Python (3.6 or higher): [Python Installation Guide](https://www.python.org/downloads/)
+- Microsoft Visual C++ Build Tools. You can install them using the following link:  [Microsoft Build  Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/), make sure to select Desktop Development with c++ while installing.
 
 ## Setup Environment
 
